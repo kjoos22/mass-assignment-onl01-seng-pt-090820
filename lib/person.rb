@@ -5,7 +5,7 @@ class Person
   
   def initialize(attributes)
     @name = attributes[:name]
-    @birthday = attributes[birthday]
+    @birthday = attributes[:birthday]
   
   end
     
