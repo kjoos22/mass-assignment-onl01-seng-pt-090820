@@ -1,5 +1,5 @@
 class Person
-  attr_accesor :name
+  attr_accessor :name
   
   def inititalize(name:)
     @name = name  
