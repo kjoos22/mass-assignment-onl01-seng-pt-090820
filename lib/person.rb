@@ -1,7 +1,8 @@
 class Person
   attr_accessor :name
   
-  def inititalize
+  def inititalize(attributes)
+    
   
   end
     
