@@ -2,6 +2,6 @@ class Person
   attr_accessor :name
   
   def inititalize(attributes)
-    attributes[:name] = name
+    @name = attributes[:name]
   end
 end
