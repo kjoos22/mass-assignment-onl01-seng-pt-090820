@@ -1,3 +1,6 @@
 class Person
-  #your code here
+  
+  def inititalize
+    
+  end
 end
